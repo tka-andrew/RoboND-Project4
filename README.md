@@ -4,7 +4,7 @@ This is my project submission for Project4: Map My World of [Udacity Nanodegree 
 
 ## Requirements
 1. Git clone this workspace or clone the my_robot package into your workspace.
-2. Git clone https://github.com/ros-teleop/teleop_twist_keyboard into the workspace `src` folder
+2. Git clone [teleop_twist_keyboard](https://github.com/ros-teleop/teleop_twist_keyboard) into the workspace `src` folder
 3. Install [rtabmap_ros](https://github.com/introlab/rtabmap_ros)
 4. Downlaod the rtabmap.db file from [here](https://drive.google.com/file/d/1Rg4rg72OJPalNaf11qqLJVfczxzUEsHs/view?usp=sharing) and place it in my_robot/maps/ folder.
 5. `catkin_make` the workspace
